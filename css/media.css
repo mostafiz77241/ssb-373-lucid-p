@@ -1,0 +1,29 @@
+@media(max-width:575px) and (min-width:320px){
+    .banner_content h1 {
+        font-size: 25px;
+    }
+    .phone{
+        display: none;
+    }
+        .btn_vew {
+        margin-top: 20px;
+    }
+    .banner_content p{
+        font-size: 16px;
+    }
+    .btn_download{
+        margin-right: 0px;
+    }
+    .btn_now{
+        margin-left: 0;
+    }
+    .contact_form{
+        width: 92%;
+    }
+    
+.contact_form form input[type="submit"] {
+    font-size: 14px;
+    padding: 10px 6px;
+    
+}
+}
